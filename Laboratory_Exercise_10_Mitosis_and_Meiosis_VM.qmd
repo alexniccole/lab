@@ -130,12 +130,12 @@ During this activity you will work in *pairs.*
 
 | **Phase**  | **Individual totals** | **Group Total** | **Percent** |
 |:-----------|:----------------------|:----------------|:------------|
-| Interphase | 251                   |                 |             |
-| Prophase   | 224                   |                 |             |
-| Metaphase  | 30                    |                 |             |
-| Anaphase   | 16                    |                 |             |
-| Telophase  | 8                     |                 |             |
-| Total      | 529                   |                 | 100%        |
+| Interphase | 251                   | 500             | 59          |
+| Prophase   | 224                   | 265             | 31          |
+| Metaphase  | 30                    | 40              | 5           |
+| Anaphase   | 16                    | 23              | 3           |
+| Telophase  | 8                     | 17              |             |
+| Total      | 529                   | 845             | 100%        |
 
 ### **Calculating Mitotic Index**
 
@@ -321,15 +321,15 @@ Complete the table.
 
 **Data Table 10.4: Comparison of Mitosis and Meiosis**
 
-| **Characteristic**            | **Mitosis**             | **Meiosis** |
-|:------------------------------|:------------------------|:------------|
-| Number of divisions           | 1                       | 2           |
-| Number of daughter cells      | 2                       | 4           |
-| Chromosome number maintained? | same                    | half        |
-| Crossing over occurs?         | no                      | yes         |
-| Genetic variation produced?   | no                      | yes         |
-| Cell type produced            | somatic                 | gametes     |
-| Biological purpose            | body cell reproduction  |             |
+| **Characteristic** | **Mitosis** | **Meiosis** |
+|:----------------------------|:---------------|:---------------|
+| Number of divisions | 1 | 2 |
+| Number of daughter cells | 2 | 4 |
+| Chromosome number maintained? | same | half |
+| Crossing over occurs? | no | yes |
+| Genetic variation produced? | no | yes |
+| Cell type produced | somatic | gametes |
+| Biological purpose | body cell reproduction | sex cell reproduction |
 
 ## **Post-Lab Discussion Questions**
 
